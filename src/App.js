@@ -15,6 +15,8 @@ class App extends Component {
 
         <p>ik snap het nog maar half 
         </p>
+
+        <p> kijken of ik het nu beter snap</p>
           <a
             className="App-link"
             href="https://reactjs.org"

@@ -11,7 +11,10 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> hallo nieuwe commit and save to reload.
           </p>
-          <p>nog maals proberen om te commiten</p>
+          <p>nog dsdsfdfsmaals proberen om te commiten</p>
+
+        <p>ik snap het nog maar half 
+        </p>
           <a
             className="App-link"
             href="https://reactjs.org"

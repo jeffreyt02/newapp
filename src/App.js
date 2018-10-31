@@ -17,6 +17,8 @@ class App extends Component {
         </p>
 
         <p> kijken of ik het nu beter snap</p>
+
+        <p>nu met autmatische comment</p>
           <a
             className="App-link"
             href="https://reactjs.org"
